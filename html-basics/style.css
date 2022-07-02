@@ -1,0 +1,18 @@
+
+
+.main{
+    /* font-family: 'Barlow Condensed', sans-serif; */
+font-family: 'Roboto Condensed', sans-serif;
+font-weight: 500;
+}
+
+
+
+
+img{
+            height: 365px;
+            width: 380px;
+            float: right;;
+            padding: 10px;
+            border-radius: 120px;
+  }
