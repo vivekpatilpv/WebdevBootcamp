@@ -7,17 +7,12 @@ body{
 
 .title{
     width: 856.3px;
-    height: 93.367px;
-  
-           
+    height: 93.367px;         
   }
 
   hr{
-   
-
     margin-right: 206px;
 margin-left: 7px;
-
 margin-top: -50px;
   }
 
@@ -26,10 +21,8 @@ margin-top: -50px;
  background-size: contain;
  background-repeat: no-repeat;
  height: 100vh;
- width: 60vh;
+ width: 56vh;
  display: inline-block;
-
-
  }
 
  .divfortext{
@@ -38,10 +31,7 @@ height: 100%;
 width: 70%;
 background-size: contain;
 background-color: #000000;
-
  }
-
-
 
 .profile-image{
     background-image: url(https://i.pinimg.com/736x/ae/da/19/aeda196fb4d6f50046115ef7df83e97e.jpg);
@@ -69,7 +59,6 @@ margin-top: -2px;
 margin-left: -17px;
 margin-bottom: -48px;
 }
-
 
 a {
     text-decoration: none;
